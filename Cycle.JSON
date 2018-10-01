@@ -1,0 +1,24 @@
+{
+"name": "Cycle",
+"type": "InputOutput",
+"description": "Variables du cycle de la cellule",
+"properties": {
+"Bypass_Vision": {
+"label": "Bypass_Vision",
+"type": "boolean",
+"description": "Désactive les contréles vision",
+"path": "/programs/cycle/properties/Bypass_Vision"
+},
+"Mode" : {
+"label": "Mode",
+"type": "string",
+"description": "Le mode de production",
+"availableValues" : [
+"AUTO",
+"MANUAL",
+"DEGRADED"
+],
+"path": "/programs/cycle/properties/Mode"
+}
+}
+}

@@ -1,0 +1,25 @@
+{
+"name": "Entrées",
+"type": "Input",
+"description": "Entrées robot et Automate",
+"properties": {
+"SOL_VerinHOME_Half": {
+"label": "SOL_VerinHOME_Half",
+"type": "boolean",
+"description": "Vérin en position HOME",
+"path": "/components/Beckhoff_PLC/properties/SOL_VerinHOME_Half"
+},
+"SOL_PrésenceOSR_full" : {
+"label": "SOL_PrésenceOSR_full",
+"type": "boolean",
+"description": "OSR Présent",
+"path": "/components/Beckhoff_PLC/properties/SOL_PrésenceOSR_full"
+},
+"SOL_Statut_Vérin" : {
+"label": "SOL_Statut_Vérin",
+"type": "string",
+"description": "Etat du vérin",
+"path": "/components/Beckhoff_PLC/properties/SOL_Statut_Vérin"
+}
+}
+}

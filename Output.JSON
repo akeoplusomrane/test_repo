@@ -1,0 +1,28 @@
+{
+"name": "Sorties",
+"type": "InputOutput",
+"description": "Sorties robot et Automate",
+"properties": {
+"CAB_VérineVERT": {
+"label": "CAB_VérineVERT",
+"type": "boolean",
+"description": "Vérin en position HOME",
+"path": "/components/Beckhoff_PLC/properties/CAB_VérineVERT"
+},
+"AG_Ouverture_Pince" : {
+"label": "AG_Ouverture_Pince",
+"type": "boolean",
+"description": "OSR Présent",
+"path": "/components/Agilus_Robot/properties/AG_Ouverture_Pince"
+},
+"SOL_Position_Vérin" : {
+"label": "SOL_Position_Vérin",
+"type": "decimal",
+"description": "La position du vérin",
+"minimum" : 0,
+"maximum" : 200,
+"unit" : "millimeters",
+"path": "/components/Beckhoff_PLC/properties/SOL_Position_Vérin"
+}
+}
+}
