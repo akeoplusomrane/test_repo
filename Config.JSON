@@ -1,14 +1,14 @@
 {
   "cycleName": "Cycle",
   "pdfFile": "",
-  "commitPeriode": "7",
-  "commitStartDate": "21/09/2018 07:47:19",
   "autoDecPeriod": "3000",
-  "prev_maintenancePeriod": "180",
-  "date_DebutMaintenance": "2018-09-06T16:29:19.7891498+01:00",
+  "prev_maintenancePeriod": "8",
+  "date_DebutMaintenance": "2018-10-03T08:43:47.7264476+01:00",
+  "priode_commit": "8",
+  "date_Debutcommit": "2018-01-09T08:40:41",
   "empty_space": "5",
-  "userName": "",
-  "passWord": "",
-  "repoUrl": "",
+  "configUserName": "akeoplusomrane",
+  "configPassWord": "akeoplus123",
+  "configRepoUrl": "https://github.com/akeoplusomrane/test_repo",
   "lm": []
 }
