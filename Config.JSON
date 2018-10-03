@@ -4,10 +4,10 @@
     "prev_maintenancePeriod":180,
     "date_DebutMaintenance":"2018-10-03T09:50:53.3399644+01:00",
     "priode_commit":7,
-    "date_Debutcommit":"2018-01-07T09:50:59.4529225+01:00",
+    "date_Debutcommit":"2018-01-07T09:54:27.6787067+01:00",
     "empty_space":5,
-    "configUserName":"",
-    "configPassWord":"",
-    "configRepoUrl":"",
+    "configUserName":"akeoplusomrane",
+    "configPassWord":"akeoplus123",
+    "configRepoUrl":"https://github.com/akeoplusomrane/test_repo",
     "lm":[]
 }
